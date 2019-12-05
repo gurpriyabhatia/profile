@@ -108,4 +108,7 @@ p{
   .container {
     width: 300px;
   }
+  .btn-blue{
+    padding: 11px 10px;
+  }
 }
